@@ -101,7 +101,7 @@ Implemented data quality functions:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/google-sheets-clone.git
+   git clone https://github.com/Bhuvantenguria/GoogleSheet-Assignment-.git
    ```
 
 2. Navigate to the project directory:
@@ -161,6 +161,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For queries or contributions, contact:
-- **Name**: Vanshaj Tiwari
-- **Email**: [vanshajtiwari62@gmail.com](mailto:vanshajtiwari62@gmail.com)
-- **GitHub**: [GitHub Profile](https://github.com/VanshajTiwari)
+- **Name**: Bhuvan Tenguria
+- **Email**: [bhuvantenguria37@gmail.com](mailto:bhuvantenguria37@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/Bhuvantenguria)
